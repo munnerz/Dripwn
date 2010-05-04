@@ -1,0 +1,9 @@
+c9f2892822b960320abfc96327e4c570 940581ec0c6c8ed5fc1043016207fc6b ffffffffffffffffffffffffffffffff 102 /Users/James/Projects/Revs/Dripwn/build/Debug/Dripwn.app
+ba64da751bbb340e1d9c2d601eeea3bc f84b16c07756cf544d2ebac773bc0b32 ffffffffffffffffffffffffffffffff 14936 /Users/James/Projects/Revs/Dripwn/build/Debug/Dripwn.app/Contents/MacOS/Dripwn
+000000004bdeb571000000000002bd8b f9e43008a0f9dde850a13d08e4329ba2 ffffffffffffffffffffffffffffffff 34354 /Users/James/Projects/Revs/Dripwn/build/Debug/Dripwn.app/Contents/Resources/English.lproj/MainMenu.nib
+000000004bdeb54b000000000000002d 72397595eead46ba0aac63ccae864bfa ffffffffffffffffffffffffffffffff 92 /Users/James/Projects/Revs/Dripwn/build/Debug/Dripwn.app/Contents/Resources/English.lproj/InfoPlist.strings
+00000000000000000000000000000000 24f41dc0dbf8d0eefd329b5260a37cc5 ffffffffffffffffffffffffffffffff 8 /Users/James/Projects/Revs/Dripwn/build/Debug/Dripwn.app/Contents/PkgInfo
+00000000000000000000000000000000 24f41dc0dbf8d0eefd329b5260a37cc5 ffffffffffffffffffffffffffffffff 883 /Users/James/Projects/Revs/Dripwn/build/Debug/Dripwn.app/Contents/Info.plist
+b86b3a17bded42956f81e597f0a286f0 c17508f4588d147cfbcadc8f7554fa61 ffffffffffffffffffffffffffffffff 24548 /Users/James/Projects/Revs/Dripwn/build/Dripwn.build/Debug/Dripwn.build/Objects-normal/x86_64/DripwnAppDelegate.o
+b86b3a17f633f77e6f81e597f0a28547 7b11d281096e1ac3e656f1ef6bbaff64 ffffffffffffffffffffffffffffffff 4976 /Users/James/Projects/Revs/Dripwn/build/Dripwn.build/Debug/Dripwn.build/Objects-normal/x86_64/main.o
+000000000b1a1f23000000000000016a b86b3a17f633f77e6f81e597f0a2853f ffffffffffffffffffffffffffffffff 54265616 /var/folders/-Y/-YDQ8P4JH84yvzMptPWpXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Dripwn_Prefix-ccjvjyllcmpwvmbvivvrmxsazgtz/Dripwn_Prefix.pch.gch

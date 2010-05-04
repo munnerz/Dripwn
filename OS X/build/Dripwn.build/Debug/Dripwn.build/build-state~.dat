@@ -1,0 +1,196 @@
+TDripwn
+v7
+r0
+t294579568.052907
+cCheck dependencies
+cProcessInfoPlistFile /Users/James/Projects/Revs/Dripwn/build/Debug/Dripwn.app/Contents/Info.plist Dripwn-Info.plist
+cCopyStringsFile /Users/James/Projects/Revs/Dripwn/build/Debug/Dripwn.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/James/Projects/Revs/Dripwn/English.lproj/MainMenu.xib
+cProcessPCH /var/folders/-Y/-YDQ8P4JH84yvzMptPWpXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Dripwn_Prefix-ccjvjyllcmpwvmbvivvrmxsazgtz/Dripwn_Prefix.pch.gch Dripwn_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Dripwn.build/Debug/Dripwn.build/Objects-normal/x86_64/main.o /Users/James/Projects/Revs/Dripwn/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Dripwn.build/Debug/Dripwn.build/Objects-normal/x86_64/DripwnAppDelegate.o /Users/James/Projects/Revs/Dripwn/DripwnAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/James/Projects/Revs/Dripwn/build/Debug/Dripwn.app/Contents/MacOS/Dripwn normal x86_64
+cTouch /Users/James/Projects/Revs/Dripwn/build/Debug/Dripwn.app
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004B99A23900000000000000EE
+t1268359737
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/James/Projects/Revs/Dripwn/DripwnAppDelegate.h
+c000000004BDEB54B0000000000000133
+t1272886603
+s307
+i<Cocoa/Cocoa.h>
+
+N/Users/James/Projects/Revs/Dripwn/DripwnAppDelegate.m
+c000000004BDEB5EB0000000000000273
+t1272886763
+s627
+i"DripwnAppDelegate.h"
+
+N/Users/James/Projects/Revs/Dripwn/Dripwn_Prefix.pch
+c000000004BDEB54B000000000000008F
+t1272886603
+s143
+i<Cocoa/Cocoa.h>
+
+N/Users/James/Projects/Revs/Dripwn/English.lproj/InfoPlist.strings
+c000000004BDEB54B000000000000002D
+t1272886603
+s45
+
+N/Users/James/Projects/Revs/Dripwn/English.lproj/MainMenu.xib
+c000000004BDEB571000000000002BD8B
+t1272886641
+s179595
+
+N/Users/James/Projects/Revs/Dripwn/build/Debug/Dripwn.app
+t1272886768
+s102
+
+N/Users/James/Projects/Revs/Dripwn/build/Debug/Dripwn.app/Contents/Info.plist
+t1272886764
+s883
+
+N/Users/James/Projects/Revs/Dripwn/build/Debug/Dripwn.app/Contents/MacOS/Dripwn
+t1272886768
+s14936
+
+N/Users/James/Projects/Revs/Dripwn/build/Debug/Dripwn.app/Contents/PkgInfo
+t1272886764
+s8
+
+N/Users/James/Projects/Revs/Dripwn/build/Debug/Dripwn.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1272886764
+s92
+
+N/Users/James/Projects/Revs/Dripwn/build/Debug/Dripwn.app/Contents/Resources/English.lproj/MainMenu.nib
+t1272886764
+s34354
+
+N/Users/James/Projects/Revs/Dripwn/build/Dripwn.build/Debug/Dripwn.build/Objects-normal/x86_64/Dripwn.LinkFileList
+c000000004BDEB5EC00000000000000D7
+t1272886764
+s215
+
+N/Users/James/Projects/Revs/Dripwn/build/Dripwn.build/Debug/Dripwn.build/Objects-normal/x86_64/DripwnAppDelegate.o
+t1272886767
+s24548
+
+N/Users/James/Projects/Revs/Dripwn/build/Dripwn.build/Debug/Dripwn.build/Objects-normal/x86_64/main.o
+t1272886767
+s4976
+
+N/Users/James/Projects/Revs/Dripwn/main.m
+c000000004BDEB54B00000000000000F7
+t1272886603
+s247
+i<Cocoa/Cocoa.h>
+
+N/var/folders/-Y/-YDQ8P4JH84yvzMptPWpXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Dripwn_Prefix-ccjvjyllcmpwvmbvivvrmxsazgtz/Dripwn_Prefix.pch.gch
+t1272886767
+s54265616
+
+NDripwn-Info.plist
+c000000004BDEB54B00000000000003EA
+t1272886603
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294579564#294579564#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/Dripwn.build/Debug/Dripwn.build/Objects-normal/x86_64/DripwnAppDelegate.o /Users/James/Projects/Revs/Dripwn/DripwnAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s294579567.660491
+e294579567.872142
+r1
+xCompileC
+xbuild/Dripwn.build/Debug/Dripwn.build/Objects-normal/x86_64/DripwnAppDelegate.o
+x/Users/James/Projects/Revs/Dripwn/DripwnAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/James/Projects/Revs/Dripwn/DripwnAppDelegate.m294579567#294579567#0(0"0(0#0#53"/Users/James/Projects/Revs/Dripwn/DripwnAppDelegate.m4300911832#1401"    cd /Users/James/Projects/Revs/Dripwn    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/James/Projects/Revs/Dripwn/build/Dripwn.build/Debug/Dripwn.build/Dripwn-generated-files.hmap -I/Users/James/Projects/Revs/Dripwn/build/Dripwn.build/Debug/Dripwn.build/Dripwn-own-target-headers.hmap -I/Users/James/Projects/Revs/Dripwn/build/Dripwn.build/Debug/Dripwn.build/Dripwn-all-target-headers.hmap -iquote /Users/James/Projects/Revs/Dripwn/build/Dripwn.build/Debug/Dripwn.build/Dripwn-project-headers.hmap -F/Users/James/Projects/Revs/Dripwn/build/Debug -I/Users/James/Projects/Revs/Dripwn/build/Debug/include -I/Users/James/Projects/Revs/Dripwn/build/Dripwn.build/Debug/Dripwn.build/DerivedSources/x86_64 -I/Users/James/Projects/Revs/Dripwn/build/Dripwn.build/Debug/Dripwn.build/DerivedSources -include /var/folders/-Y/-YDQ8P4JH84yvzMptPWpXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Dripwn_Prefix-ccjvjyllcmpwvmbvivvrmxsazgtz/Dripwn_Prefix.pch -c /Users/James/Projects/Revs/Dripwn/DripwnAppDelegate.m -o /Users/James/Projects/Revs/Dripwn/build/Dripwn.build/Debug/Dripwn.build/Objects-normal/x86_64/DripwnAppDelegate.o0#
+
+CCompileC build/Dripwn.build/Debug/Dripwn.build/Objects-normal/x86_64/main.o /Users/James/Projects/Revs/Dripwn/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s294579567.659395
+e294579567.829736
+r1
+xCompileC
+xbuild/Dripwn.build/Debug/Dripwn.build/Objects-normal/x86_64/main.o
+x/Users/James/Projects/Revs/Dripwn/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Compile /Users/James/Projects/Revs/Dripwn/main.m294579567#294579567#0(0"0(0#0#40"/Users/James/Projects/Revs/Dripwn/main.m4300911832#1375"    cd /Users/James/Projects/Revs/Dripwn    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/James/Projects/Revs/Dripwn/build/Dripwn.build/Debug/Dripwn.build/Dripwn-generated-files.hmap -I/Users/James/Projects/Revs/Dripwn/build/Dripwn.build/Debug/Dripwn.build/Dripwn-own-target-headers.hmap -I/Users/James/Projects/Revs/Dripwn/build/Dripwn.build/Debug/Dripwn.build/Dripwn-all-target-headers.hmap -iquote /Users/James/Projects/Revs/Dripwn/build/Dripwn.build/Debug/Dripwn.build/Dripwn-project-headers.hmap -F/Users/James/Projects/Revs/Dripwn/build/Debug -I/Users/James/Projects/Revs/Dripwn/build/Debug/include -I/Users/James/Projects/Revs/Dripwn/build/Dripwn.build/Debug/Dripwn.build/DerivedSources/x86_64 -I/Users/James/Projects/Revs/Dripwn/build/Dripwn.build/Debug/Dripwn.build/DerivedSources -include /var/folders/-Y/-YDQ8P4JH84yvzMptPWpXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Dripwn_Prefix-ccjvjyllcmpwvmbvivvrmxsazgtz/Dripwn_Prefix.pch -c /Users/James/Projects/Revs/Dripwn/main.m -o /Users/James/Projects/Revs/Dripwn/build/Dripwn.build/Debug/Dripwn.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/James/Projects/Revs/Dripwn/English.lproj/MainMenu.xib
+s294579564.172976
+e294579564.503283
+r1
+xCompileXIB
+x/Users/James/Projects/Revs/Dripwn/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib294579564#294579564#0(0"0(0#0#60"/Users/James/Projects/Revs/Dripwn/English.lproj/MainMenu.xib4300911832#311"    cd /Users/James/Projects/Revs/Dripwn    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/James/Projects/Revs/Dripwn/build/Debug/Dripwn.app/Contents/Resources/English.lproj/MainMenu.nib /Users/James/Projects/Revs/Dripwn/English.lproj/MainMenu.xib0#
+
+CCopyStringsFile /Users/James/Projects/Revs/Dripwn/build/Debug/Dripwn.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s294579564.170885
+e294579564.297963
+r1
+xCopyStringsFile
+x/Users/James/Projects/Revs/Dripwn/build/Debug/Dripwn.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings294579564#294579564#0(0"0(0#0#65"/Users/James/Projects/Revs/Dripwn/English.lproj/InfoPlist.strings4300911832#354"    cd /Users/James/Projects/Revs/Dripwn    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/James/Projects/Revs/Dripwn/build/Debug/Dripwn.app/Contents/Resources/English.lproj0#
+
+CLd /Users/James/Projects/Revs/Dripwn/build/Debug/Dripwn.app/Contents/MacOS/Dripwn normal x86_64
+s294579567.872311
+e294579568.038428
+r1
+xLd
+x/Users/James/Projects/Revs/Dripwn/build/Debug/Dripwn.app/Contents/MacOS/Dripwn
+xnormal
+xx86_64
+lSLF07#2@83"Link /Users/James/Projects/Revs/Dripwn/build/Debug/Dripwn.app/Contents/MacOS/Dripwn294579567#294579568#0(0"0(0#0#0"4300911832#512"    cd /Users/James/Projects/Revs/Dripwn    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/James/Projects/Revs/Dripwn/build/Debug -F/Users/James/Projects/Revs/Dripwn/build/Debug -filelist /Users/James/Projects/Revs/Dripwn/build/Dripwn.build/Debug/Dripwn.build/Objects-normal/x86_64/Dripwn.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/James/Projects/Revs/Dripwn/build/Debug/Dripwn.app/Contents/MacOS/Dripwn0#
+
+CProcessInfoPlistFile /Users/James/Projects/Revs/Dripwn/build/Debug/Dripwn.app/Contents/Info.plist Dripwn-Info.plist
+s294579564.142280
+e294579564.170786
+r1
+xProcessInfoPlistFile
+x/Users/James/Projects/Revs/Dripwn/build/Debug/Dripwn.app/Contents/Info.plist
+xDripwn-Info.plist
+lSLF07#2@25"Process Dripwn-Info.plist294579564#294579564#0(0"0(0#0#51"/Users/James/Projects/Revs/Dripwn/Dripwn-Info.plist4300911832#292"    cd /Users/James/Projects/Revs/Dripwn    builtin-infoPlistUtility Dripwn-Info.plist -genpkginfo /Users/James/Projects/Revs/Dripwn/build/Debug/Dripwn.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/James/Projects/Revs/Dripwn/build/Debug/Dripwn.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/-Y/-YDQ8P4JH84yvzMptPWpXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Dripwn_Prefix-ccjvjyllcmpwvmbvivvrmxsazgtz/Dripwn_Prefix.pch.gch Dripwn_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s294579564.503414
+e294579567.659237
+r1
+xProcessPCH
+x/var/folders/-Y/-YDQ8P4JH84yvzMptPWpXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Dripwn_Prefix-ccjvjyllcmpwvmbvivvrmxsazgtz/Dripwn_Prefix.pch.gch
+xDripwn_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile Dripwn_Prefix.pch294579564#294579567#0(0"0(0#0#51"/Users/James/Projects/Revs/Dripwn/Dripwn_Prefix.pch4300911832#1287"    cd /Users/James/Projects/Revs/Dripwn    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/James/Projects/Revs/Dripwn/build/Dripwn.build/Debug/Dripwn.build/Dripwn-generated-files.hmap -I/Users/James/Projects/Revs/Dripwn/build/Dripwn.build/Debug/Dripwn.build/Dripwn-own-target-headers.hmap -I/Users/James/Projects/Revs/Dripwn/build/Dripwn.build/Debug/Dripwn.build/Dripwn-all-target-headers.hmap -iquote /Users/James/Projects/Revs/Dripwn/build/Dripwn.build/Debug/Dripwn.build/Dripwn-project-headers.hmap -F/Users/James/Projects/Revs/Dripwn/build/Debug -I/Users/James/Projects/Revs/Dripwn/build/Debug/include -I/Users/James/Projects/Revs/Dripwn/build/Dripwn.build/Debug/Dripwn.build/DerivedSources/x86_64 -I/Users/James/Projects/Revs/Dripwn/build/Dripwn.build/Debug/Dripwn.build/DerivedSources -c /Users/James/Projects/Revs/Dripwn/Dripwn_Prefix.pch -o /var/folders/-Y/-YDQ8P4JH84yvzMptPWpXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Dripwn_Prefix-ccjvjyllcmpwvmbvivvrmxsazgtz/Dripwn_Prefix.pch.gch0#
+
+CTouch /Users/James/Projects/Revs/Dripwn/build/Debug/Dripwn.app
+s294579568.038522
+e294579568.052839
+r1
+xTouch
+x/Users/James/Projects/Revs/Dripwn/build/Debug/Dripwn.app
+lSLF07#2@62"Touch /Users/James/Projects/Revs/Dripwn/build/Debug/Dripwn.app294579568#294579568#0(0"0(0#0#0"4300911832#120"    cd /Users/James/Projects/Revs/Dripwn    /usr/bin/touch -c /Users/James/Projects/Revs/Dripwn/build/Debug/Dripwn.app0#
+
